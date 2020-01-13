@@ -7,12 +7,12 @@ Compression of image by using OpenCV library and Huffman Coding Algorithm
 
 A]Commands for compiling the code in OpenCV:
 
-1)g++ pkg-config --cflags opencv programName.cpp pkg-config --libs opencv
+1) <code>g++ pkg-config --cflags opencv programName.cpp pkg-config --libs opencv</code>
 
-2)./a.out image.jpg //For giving image input from command line
+2) <code>./a.out image.jpg </code> //For giving image input from command line
 
 B]Commands for showing Histogrtam:
 
-1)g++ histogram.cpp
+1) <code> g++ histogram.cpp</code>
 
-2)./a.out image.jpg //For giving image input from command line
+2) <code>./a.out image.jpg</code> //For giving image input from command line
